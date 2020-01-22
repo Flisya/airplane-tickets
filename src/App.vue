@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-
+    <Flights></Flights>
+    
   </div>
 </template>
 
